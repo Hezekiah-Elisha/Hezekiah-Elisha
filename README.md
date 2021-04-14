@@ -1,4 +1,4 @@
-### Hi there Welcome to my github account👋 U+1F601
+### Hi there Welcome to my github account👋 :bowtie: 
 
 <!--
 **Hezekiah-Elisha/Hezekiah-Elisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
