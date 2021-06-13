@@ -6,13 +6,13 @@
 #### 🔭 I’m currently working on 
 https://github.com/Hezekiah-Elisha/tech_archlight
 
-#### 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning SOFTWARE ENGINEERING with ALX
 
-#### 📫 How to reach me: ...
+#### 📫 How to reach me: [Twitter](https://twitter.com/olefa6), [LinkedIn](https://www.linkedin.com/in/elisha-hezekiah-okanga/)
 
-#### 😄 Pronouns: ...
+#### 😄 Pronouns: he/Him
 
-#### ⚡ Fun fact: ...
+#### ⚡ Fun fact: I code and read in pure silence. No LoFi, no headphones. Just me and my code.
 
 [![Hezekiah-Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
 
