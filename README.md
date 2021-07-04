@@ -8,7 +8,7 @@ https://github.com/Hezekiah-Elisha/tech_archlight
 
 #### 🌱 I’m currently learning SOFTWARE ENGINEERING with ALX
 
-#### 📫 How to reach me: [Twitter](https://twitter.com/olefa6), [LinkedIn](https://www.linkedin.com/in/elisha-hezekiah-okanga/)
+#### 📫 How to reach me: [Twitter](https://twitter.com/_hezekiahelisha), [LinkedIn](https://www.linkedin.com/in/elisha-hezekiah-okanga/), [Instagram](https://instagram.com/_hezekiahelisha)
 
 #### 😄 Pronouns: he/Him
 
