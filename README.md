@@ -1,16 +1,16 @@
 ![readme_header](https://user-images.githubusercontent.com/52417232/114641964-b138e980-9cdb-11eb-8673-373c49e67df0.png)
 
 
-### Hi there Welcome to my github account👋 :bowtie:
+# Hi there Welcome to my github account👋 :bowtie:
 
-#### 🔭 I’m currently working on 
+### 🔭 I’m currently working on 
 https://github.com/Hezekiah-Elisha/Python-100
 
-#### 🌱 I’m currently learning SOFTWARE ENGINEERING with ALX
+### 🌱 I’m currently learning SOFTWARE ENGINEERING with ALX
 
-#### 📫 How to reach me: [Twitter](https://twitter.com/_hezekiahelisha), [LinkedIn](https://www.linkedin.com/in/elisha-hezekiah-okanga/), [Instagram](https://instagram.com/_hezekiahelisha)
+### 📫 How to reach me: [Twitter](https://twitter.com/_hezekiahelisha), [LinkedIn](https://www.linkedin.com/in/elisha-hezekiah-okanga/), [Instagram](https://instagram.com/_hezekiahelisha)
 
-#### 😄 Pronouns: he/Him
+### 😄 Pronouns: he/Him
 
 #### ⚡ Fun fact: I code and read in pure silence. No LoFi, no headphones. Just me and my code.
 
