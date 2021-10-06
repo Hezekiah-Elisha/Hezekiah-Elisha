@@ -4,7 +4,7 @@
 ### Hi there Welcome to my github account👋 :bowtie:
 
 #### 🔭 I’m currently working on 
-https://github.com/Hezekiah-Elisha/tech_archlight
+https://github.com/Hezekiah-Elisha/Python-100
 
 #### 🌱 I’m currently learning SOFTWARE ENGINEERING with ALX
 
