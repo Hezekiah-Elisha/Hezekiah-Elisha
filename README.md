@@ -24,7 +24,7 @@ https://github.com/Hezekiah-Elisha/News-App
 </a>
 
 <a href="https://github.com/Hezekiah-Elisha/News-App">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hezekiah-Elisha)](https://github.com/anuraghazra/github-readme-stats)
+  [![Hezekiah Elisha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hezekiah-Elisha)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 
