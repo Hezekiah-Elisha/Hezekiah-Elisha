@@ -10,17 +10,30 @@ https://github.com/Hezekiah-Elisha/News-App
 
 ### 📫 How to reach me: [Instagram](https://instagram.com/_hezekiahelisha), [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-hezekiah-okanga/), [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hezekiahelisha)
 
-### 😄 Pronouns: he/Him
+### 😄 Pronouns: He/Him
 
-#### ⚡ Fun fact: I code and read in pure silence. No LoFi, no headphones. Just me and my code.
+#### ⚡ Fun fact: I am trying to have a better bond with sleep 😄
 
-<!-- <table border="0">
- <tr>
-    <td> [![Hezekiah-Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats) </td>
-    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
-</td>
- </tr>
-</table> -->
+
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+  [![Hezekiah-Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=company_x&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
 
@@ -28,6 +41,7 @@ https://github.com/Hezekiah-Elisha/News-App
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
