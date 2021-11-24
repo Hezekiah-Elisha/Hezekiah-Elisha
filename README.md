@@ -23,9 +23,11 @@ https://github.com/Hezekiah-Elisha/News-App
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&show_icons=true&line_height=47&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hezekiah Elisha GitHUb stats" />
 </a>
 
-<a href="https://github.com/Hezekiah-Elisha/ToDoList-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=ToDoList-app&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Hezekiah-Elisha/News-App">
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hezekiah-Elisha)](https://github.com/anuraghazra/github-readme-stats)
 </a>
+
+
 
 
 <a href="https://github.com/Hezekiah-Elisha/company_x">
