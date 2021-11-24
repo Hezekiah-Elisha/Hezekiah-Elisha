@@ -20,8 +20,8 @@ https://github.com/Hezekiah-Elisha/Python-100
     <td><b style="font-size:30px">Most Used Languages</b></td>
  </tr>
  <tr>
-    <td>[![Hezekiah-Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)</td>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
+    <td> [![Hezekiah-Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats) </td>
+    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats) 
 </td>
  </tr>
 </table>
