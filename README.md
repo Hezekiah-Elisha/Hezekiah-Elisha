@@ -16,8 +16,8 @@ https://github.com/Hezekiah-Elisha/News-App
 
 
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/Hezekiah-Elisha/Hezekiah-Elisha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
@@ -30,7 +30,7 @@ https://github.com/Hezekiah-Elisha/News-App
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+</a>
 
   [![Hezekiah-Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
