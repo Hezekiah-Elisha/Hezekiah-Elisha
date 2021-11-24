@@ -50,5 +50,5 @@ https://github.com/Hezekiah-Elisha/News-App
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
 <img src="https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white" />
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-<img src="" />
-<img src="" />
+<!-- <img src="" /> -->
+<!-- <img src="" /> -->
