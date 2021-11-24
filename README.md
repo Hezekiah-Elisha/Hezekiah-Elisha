@@ -4,7 +4,7 @@
 # Hi there Welcome to my github account👋 :bowtie:
 
 ### 🔭 I’m currently working on
-https://github.com/Hezekiah-Elisha/Python-100
+https://github.com/Hezekiah-Elisha/News-App
 
 ### 🌱 I’m currently learning SOFTWARE ENGINEERING with ALX
 
@@ -14,17 +14,24 @@ https://github.com/Hezekiah-Elisha/Python-100
 
 #### ⚡ Fun fact: I code and read in pure silence. No LoFi, no headphones. Just me and my code.
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Github Stats</b></td>
-    <td><b style="font-size:30px">Most Used Languages</b></td>
- </tr>
+<!-- <table border="0">
  <tr>
     <td> [![Hezekiah-Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats) </td>
-    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats) 
+    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
 </td>
  </tr>
-</table>
+</table> -->
+### Main point about code block 1
+
+```
+code block 1
+```
+
+More text explaining code block 2
+
+```
+code block 2
+```
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=company_x&theme=tokyonight)](https://github.com/Hezekiah-Elisha/github-readme-stats)
 
