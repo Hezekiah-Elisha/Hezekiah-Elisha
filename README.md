@@ -28,11 +28,11 @@ https://github.com/Hezekiah-Elisha/News-App
 <a href="https://github.com/Hezekiah-Elisha/company_x">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=company_x&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<!-- <a href="https://github.com/Hezekiah-Elisha/News-App">
+<a href="https://github.com/Hezekiah-Elisha/News-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=News-App&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
+</a>
 <a href="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezekiah-Elisha"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezekiah-Elisha&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
