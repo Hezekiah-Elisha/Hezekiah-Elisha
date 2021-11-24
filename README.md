@@ -17,20 +17,19 @@ https://github.com/Hezekiah-Elisha/News-App
 
 
 <a href="https://github.com/Hezekiah-Elisha/Hezekiah-Elisha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
 <a href="https://github.com/Hezekiah-Elisha/Hezekiah-Elisha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&show_icons=true&line_height=47&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hezekiah Elisha GitHUb stats" />
 </a>
-<a href="https://github.com/Hezekiah-Elisha/News-App">
+<!-- <a href="https://github.com/Hezekiah-Elisha/News-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=_hezekiahelisha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
-
-
-
+</a> -->
 <a href="https://github.com/Hezekiah-Elisha/company_x">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=company_x&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Hezekiah-Elisha/News-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=News-App&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
