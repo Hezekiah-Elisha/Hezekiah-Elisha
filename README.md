@@ -8,7 +8,7 @@ https://github.com/Hezekiah-Elisha/News-App
 
 ### 🌱 I’m currently learning SOFTWARE ENGINEERING with ALX
 
-### 📫 How to reach me: [Instagram](https://instagram.com/_hezekiahelisha), [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-hezekiah-okanga/), [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hezekiahelisha)
+### 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hezekiahelisha), [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-hezekiah-okanga/), [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hezekiahelisha)
 
 ### 😄 Pronouns: He/Him
 
