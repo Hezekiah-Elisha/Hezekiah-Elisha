@@ -3,6 +3,8 @@
 
 # Hi there Welcome to my github account👋 :bowtie:
 
+![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
+
 ### 🔭 I’m currently working on
 https://github.com/Hezekiah-Elisha/News-App
 
