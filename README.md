@@ -2,7 +2,7 @@
 
 
 # Hi there Welcome to my github account👋 :bowtie:
-
+<a href="#" width="40%">
 ![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
 
 ### 🔭 I’m currently working on
@@ -15,7 +15,8 @@ https://github.com/Hezekiah-Elisha/News-App
 ### 😄 Pronouns: He/Him
 
 #### ⚡ Fun fact: I am trying to have a better bond with sleep 😄
-<a href="#">
+</a>
+<a href="#" width="60%">
 <a href="https://app.daily.dev/_hezekiahelisha"><img src="https://api.daily.dev/devcards/414c3279795a4c08bb6ab29210817b03.png?r=x9p" width="400" alt="Hezekiah Elisha's Dev Card"/></a>
 </a>
 
