@@ -2,7 +2,7 @@
 
 
 # Hi there Welcome to my github account👋 :bowtie:
-<a href="#" width="40%">
+<a href="#" width="20%">
 ![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
 
 ### 🔭 I’m currently working on
