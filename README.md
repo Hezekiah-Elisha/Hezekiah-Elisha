@@ -2,9 +2,9 @@
 
 
 # Hi there Welcome to my github account👋 :bowtie:
-<a href="#" width="20%">
-![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
 
+![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
+<a href="#" width="20%">
 ### 🔭 I’m currently working on
 https://github.com/Hezekiah-Elisha/News-App
 
