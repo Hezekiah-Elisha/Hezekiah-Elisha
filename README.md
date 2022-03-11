@@ -15,19 +15,20 @@ https://github.com/Hezekiah-Elisha/News-App
 ### 😄 Pronouns: He/Him
 
 #### ⚡ Fun fact: I am trying to have a better bond with sleep 😄
+<a href="#">
+<a href="https://app.daily.dev/_hezekiahelisha"><img src="https://api.daily.dev/devcards/414c3279795a4c08bb6ab29210817b03.png?r=x9p" width="400" alt="Hezekiah Elisha's Dev Card"/></a>
+</a>
 
 
-<a href="#" width="50%">
+<!-- <a href="#" width="50%"> -->
 <a href="https://github.com/Hezekiah-Elisha/Hezekiah-Elisha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
 <a href="https://github.com/Hezekiah-Elisha/Hezekiah-Elisha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hezekiah-Elisha&show_icons=true&line_height=47&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hezekiah Elisha GitHUb stats" />
 </a>
-</a>
-<a href="#">
-<a href="https://app.daily.dev/_hezekiahelisha"><img src="https://api.daily.dev/devcards/414c3279795a4c08bb6ab29210817b03.png?r=x9p" width="400" alt="Hezekiah Elisha's Dev Card"/></a>
-</a>
+<!-- </a> -->
+
 <!-- <a href="https://github.com/Hezekiah-Elisha/News-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=_hezekiahelisha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a> -->
