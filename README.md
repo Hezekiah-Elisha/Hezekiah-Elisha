@@ -46,6 +46,8 @@ https://github.com/Hezekiah-Elisha/Career_Sailor_App
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezekiah-Elisha&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hezekiah-Elisha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>
