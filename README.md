@@ -15,7 +15,7 @@ https://github.com/Hezekiah-Elisha/Career_Sailor_App
 
 ### 😄 Pronouns: He/Him
 
-#### ⚡ Fun fact: I Play chess every day 😄
+#### ⚡ Fun fact: I Play chess every day (Bullets specifically)😄
 </a>
 <!-- <a href="#" width="60%"> -->
 <a href="https://app.daily.dev/_hezekiahelisha"><img src="https://api.daily.dev/devcards/414c3279795a4c08bb6ab29210817b03.png?r=x9p" width="400" alt="Hezekiah Elisha's Dev Card"/></a>
