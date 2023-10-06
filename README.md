@@ -11,11 +11,9 @@ https://github.com/Hezekiah-Elisha/Career_Sailor_App
 
 ### 🌱 I’m currently learning Android App Development on an app that solves SDG 4 and 8
 
-### 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hezekiahelisha), [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-hezekiah-okanga/), [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hezekiahelisha)
+### 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hezekiahelisha), [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hezekiah-elisha/), [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hezekiahelisha)
 
-### 😄 Pronouns: He/Him
-
-#### ⚡ Fun fact: I Play chess every day (Bullets specifically)😄
+#### ⚡ Fun fact: I play chess every day (Bullets specifically)😄
 </a>
 <!-- <a href="#" width="60%"> -->
 <a href="https://app.daily.dev/_hezekiahelisha"><img src="https://api.daily.dev/devcards/414c3279795a4c08bb6ab29210817b03.png?r=x9p" width="400" alt="Hezekiah Elisha's Dev Card"/></a>
