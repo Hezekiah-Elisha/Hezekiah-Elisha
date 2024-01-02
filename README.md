@@ -1,7 +1,7 @@
 ![readme_header](https://user-images.githubusercontent.com/52417232/114641964-b138e980-9cdb-11eb-8673-373c49e67df0.png)
 
 
-# Hi there Welcome to my Github account👋 :bowtie:
+# Hi there Welcome to my github account👋 :bowtie:
 
 ![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
 [![wakatime](https://wakatime.com/badge/user/13644c0a-f964-4093-a24c-cd9c0a4b1d46.svg)](https://wakatime.com/@13644c0a-f964-4093-a24c-cd9c0a4b1d46)
@@ -27,4 +27,8 @@ https://github.com/Hezekiah-Elisha/rentalhub_node_backend
 </a>
 <a href="https://github.com/Hezekiah-Elisha/Hezekiah-Elisha" width="50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+</a>
+
+<a href="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezekiah-Elisha&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
 </a>
