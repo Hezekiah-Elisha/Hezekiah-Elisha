@@ -1,13 +1,13 @@
 ![readme_header](https://user-images.githubusercontent.com/52417232/114641964-b138e980-9cdb-11eb-8673-373c49e67df0.png)
 
 
-# Hi there Welcome to my github account👋 :bowtie:
+# Hi there Welcome to my Github account👋 :bowtie:
 
 ![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
 [![wakatime](https://wakatime.com/badge/user/13644c0a-f964-4093-a24c-cd9c0a4b1d46.svg)](https://wakatime.com/@13644c0a-f964-4093-a24c-cd9c0a4b1d46)
 <!-- <a href="#" width="20%"> -->
 ### 🔭 I’m currently working on
-https://github.com/Hezekiah-Elisha/Career_Sailor_App
+https://github.com/Hezekiah-Elisha/rentalhub_node_backend
 
 ### 🌱 I’m currently learning Android App Development on an app that solves SDG 4 and 8
 
@@ -28,35 +28,3 @@ https://github.com/Hezekiah-Elisha/Career_Sailor_App
 <a href="https://github.com/Hezekiah-Elisha/Hezekiah-Elisha" width="50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezekiah-Elisha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
-<!-- </a> -->
-<!-- </a> -->
-
-<!-- <a href="https://github.com/Hezekiah-Elisha/News-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=_hezekiahelisha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a> -->
-<!-- <a href="https://github.com/Hezekiah-Elisha/company_x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=company_x&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Hezekiah-Elisha/News-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hezekiah-Elisha&repo=News-App&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-<a href="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezekiah-Elisha&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hezekiah-Elisha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
