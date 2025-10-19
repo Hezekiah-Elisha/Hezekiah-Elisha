@@ -6,8 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Hezekiah-Elisha)
 [![wakatime](https://wakatime.com/badge/user/13644c0a-f964-4093-a24c-cd9c0a4b1d46.svg)](https://wakatime.com/@13644c0a-f964-4093-a24c-cd9c0a4b1d46)
 <!-- <a href="#" width="20%"> -->
-### 🔭 I’m currently working on
-https://github.com/Hezekiah-Elisha/rentalhub_node_backend
+### 🔭 I’m currently working on https://Tipapp.ke
 
 ### 🌱 I’m currently learning Android App Development on an app that solves SDG 4 and 8
 
